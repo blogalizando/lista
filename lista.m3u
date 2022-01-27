@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LogoTVGlobo2021.svg/2560px-LogoTVGlobo2021.svg.png" group-title="TV ABERTA",TV Globo 
+#EXTINF:-1 type="stream" tvg-id="TV Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/LogoTVGlobo2021.svg/2560px-LogoTVGlobo2021.svg.png" group-title="Globo",TV Globo
 https://live-ancdn-07.video.globo.com/d/s/hls-globo-sal/hls-globo-sal_2359/playlist.m3u8
